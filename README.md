@@ -7,4 +7,4 @@ A naive emoji detector
 EmojiDetector.contain?("😀") # => true
 ```
 
-codepoint data from (Full Emoji Data)[http://unicode.org/emoji/charts/full-emoji-list.html]
+codepoint data from [Full Emoji Data](http://unicode.org/emoji/charts/full-emoji-list.html)
